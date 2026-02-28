@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan087&label=Profile%20views&color=0e75b6&style=flat" alt="sayan087" /> </p>
 
-- 🌱 I’m currently learning **Mern Full Stack Devloper,React JS**
+- 🌱 I’m currently learning **Java Selenium**
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **Java Selenium**
 
 - 📫 How to reach me **sayangiri007@gmail.com**
 
