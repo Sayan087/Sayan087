@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan087&label=Profile%20views&color=0e75b6&style=flat" alt="sayan087" /> </p>
 
-- 🌱 I’m currently learning **Java Selenium**
+🧪 I’m currently working as a QA Tester
 
-- 💬 Ask me about **Java Selenium**
+⚡ Skilled in Java Selenium Automation Testing
 
-- 📫 How to reach me **sayangiri007@gmail.com**
+💬 Ask me about Java, Selenium, Manual & Automation Testing
+
+📫 How to reach me sayangiri007@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
